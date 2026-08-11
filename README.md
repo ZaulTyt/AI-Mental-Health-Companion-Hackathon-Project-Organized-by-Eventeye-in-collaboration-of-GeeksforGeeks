@@ -1,4 +1,5 @@
-AI Mental Health Companion
+**AI Mental Health Companion**
+
 📌 Problem Statement
 Students and professionals often struggle with mental anxiety and pressure caused by academic challenges or career-related stress. These issues can negatively impact productivity, emotional well-being, and overall quality of life. Our team wanted to address this growing concern by building a supportive, AI-powered solution.
 
